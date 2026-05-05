@@ -6,6 +6,7 @@
 
 ## Getting Started
 - [[00 Setup Guide]] (Prerequisites and Installation)
+- [[Quartz Deployment Guide]] (Step-by-step Vercel Deployment)
 
 ## Course Structure
 The curriculum is divided into 5 main phases:
