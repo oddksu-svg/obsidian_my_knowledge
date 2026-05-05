@@ -20,6 +20,17 @@ Before starting the AI & Machine Learning Engineering Course, please ensure you 
 - Download and install Obsidian from [obsidian.md](https://obsidian.md/).
 - Open this folder as a Vault in Obsidian to enable internal linking and tag support.
 
+## 5. Install & Setup Quartz (For Publishing)
+- Required to publish this Obsidian vault online for free.
+- **Prerequisites:** Ensure you have Node.js (`npm`) and Git installed.
+- **Steps:**
+  1. Clone Quartz: `git clone https://github.com/jackyzha0/quartz.git quartz_site`
+  2. Navigate and clean up: `cd quartz_site`, delete `.git` and `content/*`.
+  3. Copy your Obsidian vault contents into `quartz_site/content`.
+  4. Install dependencies: `npm install`.
+  5. Test locally: `npx quartz build --serve` (view at http://localhost:8080).
+  6. Deploy: Initialize Git, push to GitHub, and link the repository to Vercel.
+
 ---
 Back to [[Course Overview]]
 
