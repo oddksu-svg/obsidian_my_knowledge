@@ -3,7 +3,7 @@
 
 Back to [[Course Overview]]
 
-## สัปดาห์ที่ 1: Introduction to ML & Software Engineering Basics
+## สัปดาห์ที่ 1: [[Week 1 - Introduction to ML|Introduction to ML & Software Engineering Basics]]
 - **ทฤษฎี (2 ชม.):** ภาพรวมของ ML, กระบวนการทำโปรเจกต์ ML แบบ End-to-End, แนวปฏิบัติที่ดีในการเขียนโค้ด (Git, Environment)
 - **Workshop 1:** การตั้งค่า Environment (Conda/Venv) และ Git Version Control
 - **Workshop 2:** Data Manipulation พื้นฐานด้วย Pandas & NumPy
