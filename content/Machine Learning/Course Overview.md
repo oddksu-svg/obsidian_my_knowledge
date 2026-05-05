@@ -5,7 +5,7 @@
 **References:** Hands-on ML, Designing ML Systems, GenAI Design Patterns, Software Eng. for DS, AI Engineering, FastAI/PyTorch
 
 ## Getting Started
-- [[Setup Guide]] (Prerequisites and Installation)
+- [[00 Setup Guide]] (Prerequisites and Installation)
 
 ## Course Structure
 The curriculum is divided into 5 main phases:
