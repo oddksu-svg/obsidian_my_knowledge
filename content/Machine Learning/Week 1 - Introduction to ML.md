@@ -40,7 +40,7 @@ Back to [[Phase 1 - Foundations & Classical Machine Learning]]
 - การตั้งค่า Environment (Conda/Venv)
 - การใช้งาน Git Version Control พื้นฐาน
 
-### Workshop 2: Data Manipulation ด้วย Pandas & NumPy
+### [[Workshop 2 - Pandas and NumPy|Workshop 2: Data Manipulation ด้วย Pandas & NumPy]]
 **โจทย์ตัวอย่าง (Google Colab):**
 1. โหลดข้อมูล `california_housing_train.csv` จากโฟลเดอร์ `sample_data`
 2. พล็อตกราฟ Heat map แผนที่ตามพิกัด Latitude/Longitude โดยใช้ค่า `median_house_value` เป็นเกณฑ์
